@@ -3,7 +3,7 @@ Android Activity Lifecycle is controlled by 7 methods of android.app.Activity cl
 
 Hello folks, how are you doing? So today we are going to discuss what is Android Activity Lifecycle and how you can implement it in android. You need to take care of these activity life cycle when you will develop any android application.
 
-![alt text](https://www.youtube.com/watch?v=zRr3PlJd8tE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zRr3PlJd8tE/0.jpg)](https://youtu.be/zRr3PlJd8tE)
 
 ## Usage
 
